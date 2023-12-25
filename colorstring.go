@@ -1,3 +1,6 @@
+// Copyright (c) HashiCorp, Inc.
+// SPDX-License-Identifier: MIT
+
 // colorstring provides functions for colorizing strings for terminal
 // output.
 package colorstring
