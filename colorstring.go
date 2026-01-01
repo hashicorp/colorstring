@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2014, 2019
+// SPDX-License-Identifier: MIT
+
 // colorstring provides functions for colorizing strings for terminal
 // output.
 package colorstring
