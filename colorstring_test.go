@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2014, 2019
+// SPDX-License-Identifier: MIT
+
 package colorstring
 
 import (
